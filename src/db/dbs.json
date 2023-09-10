@@ -1,0 +1,143 @@
+{
+  "api": [
+    {
+      "id": "unique-identifier",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "location": "New York",
+      "currentDesignation": "Software Engineer",
+      "phone": "1234567890",
+      "website": "www.johndoe.com",
+      "aboutMe": "I am a software engineer with a passion for coding.",
+      "academics": [
+        {
+          "id": "academic-1",
+          "school": "ABC School",
+          "schoolYear": "2005",
+          "schoolDescription": "High School Diploma"
+        },
+        {
+          "id": "academic-2",
+          "school": "XYZ College",
+          "schoolYear": "2009",
+          "schoolDescription": "Bachelor's Degree in Computer Science"
+        },
+        {
+          "id": "academic-3",
+          "school": "University of ABC",
+          "specialization": "Software Engineering",
+          "schoolYear": "2012",
+          "schoolDescription": "Master's Degree in Software Engineering"
+        }
+      ],
+      "professionalExperience": [
+        {
+          "id": "experience-1",
+          "designation": "Software Engineer",
+          "organization": "Tech Company Inc.",
+          "tenure": "2012 - 2015",
+          "location": "San Francisco",
+          "description": "Worked on various software projects."
+        },
+        {
+          "id": "experience-2",
+          "designation": "Senior Software Engineer",
+          "organization": "Tech Giant Corp.",
+          "tenure": "2015 - Present",
+          "location": "Seattle",
+          "description": "Lead development teams and delivered innovative solutions."
+        }
+      ],
+      "certifications": [
+        {
+          "id": "certification-1",
+          "title": "Certification 1",
+          "year": "2014",
+          "description": "Certified in a specific technology."
+        },
+        {
+          "id": "certification-2",
+          "title": "Certification 2",
+          "year": "2017",
+          "description": "Certified in another technology."
+        }
+      ],
+      "projects": [
+        {
+          "id": "project-1",
+          "title": "Project 1",
+          "tenure": "2013 - 2014",
+          "url": "www.project1.com",
+          "description": "Description of Project 1."
+        },
+        {
+          "id": "project-2",
+          "title": "Project 2",
+          "tenure": "2015 - 2016",
+          "url": "www.project2.com",
+          "description": "Description of Project 2."
+        }
+      ],
+      "skills": [
+        {
+          "id": "skill-1",
+          "skillname": "JavaScript",
+          "rating": 4
+        },
+        {
+          "id": "skill-2",
+          "skillname": "React",
+          "rating": 4
+        },
+        {
+          "id": "skill-3",
+          "skillname": "Node.js",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "5b0bf731-2de2-4fdf-837f-53600fa40e2b",
+      "firstName": "Harshit",
+      "lastName": "Bagewadi",
+      "email": "harshitbagewadi7@gmail.com",
+      "location": "Bagalkot",
+      "currentDesignation": "application analyst",
+      "phone": "9731662201",
+      "website": "",
+      "aboutMe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "academics": [],
+      "professionalExperience": [
+        {
+          "designation": "asiodjoqj",
+          "organization": "iasiodfqjwo",
+          "tenure": "asiodfjqeweoi",
+          "location": "aisdioqj",
+          "description": "iajfpjw asiojfpoqj"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "iasjjdfpq",
+          "year": "laofjwo",
+          "description": "ajnfioewhi aioshiofj"
+        }
+      ],
+      "projects": [
+        {
+          "title": "a sqiofjpoqwj",
+          "tenure": "ljdpoqjp",
+          "url": "wajdpoqj",
+          "description": "ajfpwejpo"
+        }
+      ],
+      "skills": [
+        {
+          "skillname": "aisjfpqjwp",
+          "rating": "4"
+        }
+      ]
+    }
+  ]
+}

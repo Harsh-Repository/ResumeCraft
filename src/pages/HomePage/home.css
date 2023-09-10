@@ -1,0 +1,23 @@
+.HomePage {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .HomePage h3 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .HomePage h4 {
+    font-size: 18px;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .HomePage h6 {
+    font-size: 14px;
+    color: #777;
+    margin-top: 10px;
+  }
+  
