@@ -40,9 +40,9 @@ function AllResumes() {
         </thead>
         <tbody>
           {data &&
-            data.map((item) => (
+            data.map((item, index) => (
               <tr className='text-center' key={item.id}>
-                <td>1</td>
+                <td>{index + 1}</td>
                 <td>{item.firstName}</td>
                 <td>{item.email}</td>
                 <td>
