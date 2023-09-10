@@ -35,3 +35,6 @@ A website for creating, updating, and deleting resumes. Users can create their r
 ## Future plans
 - Applying redux to reduce API calls.
 - Improve user interface.
+
+  ## YouTube
+  - https://youtu.be/BeQCsbeXQ-k
