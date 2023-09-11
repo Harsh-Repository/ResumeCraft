@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Academics(props) {
-  if (!Array.isArray(props.items)) {
+  if (!Array.isArray(props.items) || props.items.length === 0) {
     return (
       <div className="academics">
         <h2>Academics</h2>
@@ -9,15 +9,16 @@ export default function Academics(props) {
       </div>
     );
   }
-
+  console.log('Academic data')
   return (
     <div className="academics">
       <h2>Academics</h2>
+      
       <ul>
         {props.items.map((item, index) => (
           <li key={index}>
             <strong>{item.school || item.college || item.university}:</strong>{" "}
-            {item.year} - {item.specialization || ""} - {item.description}
+            {item.schoolYear} - {item.specialization || ""} - {item.description}
           </li>
         ))}
       </ul>

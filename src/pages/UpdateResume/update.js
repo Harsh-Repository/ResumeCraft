@@ -71,6 +71,7 @@ function UpdateResume() {
 
   return (
     <div className='resumeForm'>
+      <h2>Update Resume:</h2>
       <form onSubmit={(e) => e.preventDefault()}>
         {step === 1 && (
           <BasicDetails
