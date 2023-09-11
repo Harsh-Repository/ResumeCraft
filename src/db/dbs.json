@@ -158,6 +158,175 @@
           "rating": "4"
         }
       ]
+    },
+    {
+      "id": "71526419-5d34-451d-b622-5ee9d04c94cd",
+      "firstName": "Harshit",
+      "lastName": "Bagewadi",
+      "email": "bdiweifhio",
+      "location": "uhdfioho",
+      "currentDesignation": "akuhfioewh",
+      "phone": "34324832492",
+      "website": "",
+      "aboutMe": "dushfoishio",
+      "academics": [
+        {
+          "school": "",
+          "schoolYear": "uhasiohq",
+          "schoolDescription": "hashfoqww"
+        },
+        {
+          "school": "",
+          "schoolYear": "ihioewhio",
+          "schoolDescription": "ihfoewho"
+        },
+        {
+          "school": "",
+          "specialization": "iasjfjewi",
+          "schoolYear": "iojfojwe",
+          "schoolDescription": "iodhfoiwejf"
+        }
+      ],
+      "professionalExperience": [
+        {
+          "designation": "asihofiqwh",
+          "organization": "jpfjewpo",
+          "tenure": "ioejfpowfj",
+          "location": "ijfpowepo",
+          "description": "ijfpowejp"
+        },
+        {
+          "id": "experience-2",
+          "designation": "aioshfiohqewipo",
+          "organization": "iohfioheio",
+          "tenure": "iodjfpwe",
+          "location": "ioewjfjwp",
+          "description": "ijafpoweojp"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "sioahfoqwp",
+          "year": "iohepfhipw",
+          "description": "ioqhefiohw"
+        },
+        {
+          "title": "oahsfohwo",
+          "year": "ioqhiofhwie",
+          "description": "ionadiofhwodjf"
+        }
+      ],
+      "projects": [
+        {
+          "title": "asihfhqio",
+          "tenure": "hioefhoqi",
+          "url": "iohiofhewoh",
+          "description": "ihfipewhij"
+        },
+        {
+          "title": "iohdsapfjqewpo",
+          "tenure": "iewfiweiohj",
+          "url": "iodhiohfew",
+          "description": "jaofiowe"
+        }
+      ],
+      "skills": [
+        {
+          "skillname": "ausfohweioh`",
+          "rating": "4"
+        },
+        {
+          "id": "skills-2",
+          "skillname": "askuufqewiuo",
+          "rating": "5"
+        }
+      ]
+    },
+    {
+      "id": "2005fb08-7f73-4798-98e9-18f61d8b9b08",
+      "firstName": "Harshit",
+      "lastName": "Bagewadi",
+      "email": "harshitbagewadi7@gmail.com",
+      "location": "Bagalkot",
+      "currentDesignation": "kanshdio",
+      "phone": "9731662201",
+      "website": "ihasioshio",
+      "aboutMe": "dhiohioqh",
+      "academics": [
+        {
+          "id": "academics-1",
+          "school": "",
+          "schoolYear": "1232",
+          "schoolDescription": "iajsiojpqj"
+        },
+        {
+          "id": "academics-2",
+          "school": "",
+          "schoolYear": "1221",
+          "schoolDescription": "posajdj"
+        },
+        {
+          "id": "academics-3",
+          "school": "",
+          "specialization": "aiosojdf",
+          "schoolYear": "1223",
+          "schoolDescription": "sjfpojwepo"
+        }
+      ],
+      "professionalExperience": [
+        {
+          "designation": "nefjpj",
+          "organization": "aojdfpoj",
+          "tenure": "90121",
+          "location": "iojdojw",
+          "description": "sijfiojewio"
+        },
+        {
+          "id": "experience-2",
+          "designation": "ahsiodho",
+          "organization": "lihiofh",
+          "tenure": "8122",
+          "location": "aiohdo",
+          "description": "iahsiodh"
+        }
+      ],
+      "certifications": [
+        {
+          "title": "asbduhefioh",
+          "year": "1231",
+          "description": "nfiowe"
+        },
+        {
+          "title": "shfiuhewo",
+          "year": "1323",
+          "description": "kjnhfohweio aijf9oj"
+        }
+      ],
+      "projects": [
+        {
+          "title": "ahfiohow",
+          "tenure": "1231",
+          "url": "sijfiojwe",
+          "description": "sdofjwoe"
+        },
+        {
+          "title": "iioafjioj",
+          "tenure": "1231",
+          "url": "sdnfnhweiojo",
+          "description": "ajfpjwpjfpew"
+        }
+      ],
+      "skills": [
+        {
+          "skillname": "aiohfweho",
+          "rating": "4"
+        },
+        {
+          "id": "skills-2",
+          "skillname": "iosjfiojwiow",
+          "rating": "5"
+        }
+      ]
     }
   ]
 }

@@ -20,7 +20,27 @@ function CreateResume() {
         phone: '',
         website: '',
         aboutMe: '',
-        academics: [],
+        academics: [
+            {
+                id: "academics-1",
+                school: "",
+                schoolYear: "",
+                schoolDescription: ""
+            },
+            {
+                id: "academics-2",
+                school: "",
+                schoolYear: "",
+                schoolDescription: ""
+            },
+            {
+                id: "academics-3",
+                school: "",
+                specialization: "",
+                schoolYear: "",
+                schoolDescription: ""
+            }
+        ],
         professionalExperience: [{
             designation: "",
             organization: "",
