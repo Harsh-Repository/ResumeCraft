@@ -30,11 +30,10 @@ A website for creating, updating, and deleting resumes. Users can create their r
 
 ## Challenges Faced
 - Storing and getting resume form data in steps.
-- 
 
 ## Future plans
 - Applying redux to reduce API calls.
 - Improve user interface.
 
-  ## YouTube
-  - https://youtu.be/BeQCsbeXQ-k
+## YouTube
+- https://youtu.be/BeQCsbeXQ-k
